@@ -1,0 +1,3 @@
+[submodule "mbailleu/themes/hugo-tanka"]
+	path = mbailleu/themes/hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
