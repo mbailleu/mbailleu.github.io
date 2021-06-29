@@ -13,7 +13,7 @@
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mbailleu.github.io/about/</guid>
-      <description>Welcome! My name is Maurice Bailleu and I am a PhD student at the University of Edinburgh, member of Institute for Computing Systems Architecture (ICSA), supervised by Prof. Pramod Bhatotia.
+      <description>My name is Maurice Bailleu and I am a PhD student at the University of Edinburgh, member of Institute for Computing Systems Architecture (ICSA), supervised by Prof. Pramod Bhatotia.
 For my PhD, I am investigating ways to re-desing high-end distributed trusted storage systems by leveraging modern trusted hardware modules.
 Before joining ICSA, I graduated from TU Dresden, Germany.
 Interests: Distributed and Dependable Systems, Secure Storage, File Systems, Intel SGX, Operating Systems, Parallel Architectures, Memory System.</description>
