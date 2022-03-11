@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPEICHER: Securing LSM-based Key-Value Stores using Shielded Execution on Maurice Bailleu</title>
+    <link>https://mbailleu.github.io/publications/speicher/</link>
+    <description>Recent content in SPEICHER: Securing LSM-based Key-Value Stores using Shielded Execution on Maurice Bailleu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mbailleu.github.io/publications/speicher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maurice Bailleu</title>
+      <link>https://mbailleu.github.io/publications/speicher/maurice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbailleu.github.io/publications/speicher/maurice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jörg Thalheim</title>
+      <link>https://mbailleu.github.io/publications/speicher/joerg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbailleu.github.io/publications/speicher/joerg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pramod Bhatotia</title>
+      <link>https://mbailleu.github.io/publications/speicher/pramod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbailleu.github.io/publications/speicher/pramod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof Fetzer</title>
+      <link>https://mbailleu.github.io/publications/speicher/christof_fetzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbailleu.github.io/publications/speicher/christof_fetzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michio Honda</title>
+      <link>https://mbailleu.github.io/publications/speicher/michio_honda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbailleu.github.io/publications/speicher/michio_honda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapil Vaswani</title>
+      <link>https://mbailleu.github.io/publications/speicher/kapil_vaswani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbailleu.github.io/publications/speicher/kapil_vaswani/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
