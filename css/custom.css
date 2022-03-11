@@ -69,7 +69,7 @@ hr {
 }
 
 .header ul.nav {
-    margin-bottom: 5rem;
+    margin-bottom: 2.5rem;
 }
 
 /* Partial: Content */
@@ -78,6 +78,7 @@ hr {
     font-weight: 600;
     color: #333333;
     margin-bottom: 1rem;
+    font-size: 1.5rem;
 }
 
 .content .meta {
@@ -211,12 +212,12 @@ hr {
 }
 
 .content .meta-title {
-    font-size: 1.5625rem;
+    font-size: 1.25rem;
     margin-bottom: 0.5rem;
 }
 
 .content .meta-title {
-    font-size: 1.5625rem;
+    font-size: 1.25rem;
     font-weight: 600;
 }
 
@@ -226,6 +227,32 @@ hr {
 
 .content .meta-title a:hover {
     text-decoration: underline;
+}
+
+.content .author-list {
+    display: inline;
+    list-style: none;
+    padding-left: 0;
+}
+
+.content .author-list li {
+    display: inline;
+}
+
+.content .author-list a {
+    text-decoration: none;
+}
+
+.content .author-list a:hover {
+    text-decoration: underline;
+}
+
+.content .author-list li:after {
+    content: ", "
+}
+
+.content .author-list li:last-child:after {
+    content: ""
 }
 
 .content .meta-date {
@@ -258,3 +285,5 @@ hr {
         margin-right: 0;
     }
 }
+
+
