@@ -237,6 +237,13 @@ hr {
 
 .content .author-list li {
     display: inline;
+    padding: 0;
+    margin: 0;
+}
+
+.content .author-list ul {
+    padding: 0;
+    margin: 0;
 }
 
 .content .author-list a {
