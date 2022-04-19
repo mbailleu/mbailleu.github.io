@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mbailleu.github.io/publications/treaty/dimitra/</loc>
+  </url><url>
     <loc>https://mbailleu.github.io/publications/avocado/maurice/</loc>
   </url><url>
     <loc>https://mbailleu.github.io/publications/speicher/maurice/</loc>
@@ -18,7 +20,11 @@
   </url><url>
     <loc>https://mbailleu.github.io/publications/interoperable_cap/maurice/</loc>
   </url><url>
+    <loc>https://mbailleu.github.io/publications/treaty/maurice/</loc>
+  </url><url>
     <loc>https://mbailleu.github.io/publications/interoperable_cap/dejan_milojici/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/publications/treaty/natacha/</loc>
   </url><url>
     <loc>https://mbailleu.github.io/publications/speicher/pramod/</loc>
   </url><url>
@@ -29,6 +35,8 @@
     <loc>https://mbailleu.github.io/publications/avocado/do/</loc>
   </url><url>
     <loc>https://mbailleu.github.io/publications/interoperable_cap/gabriel_parmer/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/publications/treaty/pramod/</loc>
   </url><url>
     <loc>https://mbailleu.github.io/publications/speicher/michio_honda/</loc>
   </url><url>
@@ -42,16 +50,19 @@
   </url><url>
     <loc>https://mbailleu.github.io/publications/tee-perf/christof_fetzer/</loc>
   </url><url>
+    <loc>https://mbailleu.github.io/</loc>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/publications/</loc>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/publications/treaty/</loc>
+    <lastmod>2022-03-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mbailleu.github.io/about/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/publications/avocado/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mbailleu.github.io/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/publications/tee-perf/</loc>
