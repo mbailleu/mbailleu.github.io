@@ -2,80 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mbailleu.github.io/publications/treaty/dimitra/</loc>
+    <loc>https://mbailleu.github.io/publications/anchor/</loc>
+    <lastmod>2024-06-09T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://mbailleu.github.io/publications/avocado/maurice/</loc>
+    <loc>https://mbailleu.github.io/authors/</loc>
+    <lastmod>2024-06-09T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://mbailleu.github.io/publications/speicher/maurice/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/tee-perf/maurice/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/interoperable_cap/reto_achermann/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/avocado/dimitra/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/tee-perf/donald_dragoti/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/speicher/joerg/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/interoperable_cap/maurice/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/treaty/maurice/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/interoperable_cap/dejan_milojici/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/treaty/natacha/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/speicher/pramod/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/avocado/vasilis/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/speicher/christof_fetzer/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/avocado/do/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/interoperable_cap/gabriel_parmer/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/treaty/pramod/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/speicher/michio_honda/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/avocado/vijay/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/speicher/kapil_vaswani/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/avocado/pramod/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/tee-perf/pramod/</loc>
-  </url><url>
-    <loc>https://mbailleu.github.io/publications/tee-perf/christof_fetzer/</loc>
+    <loc>https://mbailleu.github.io/authors/dimitrios-stavrakakis-dimitra-giantsidi-maurice-bailleu-philip-saendig-shady-issa-pramod-bhatotia/</loc>
+    <lastmod>2024-06-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/publications/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-09T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/authors/dimitra-giantsidi-maurice-bailleu-natacha-crooks-pramod-bhatotia/</loc>
+    <lastmod>2022-06-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/publications/treaty/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mbailleu.github.io/about/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/publications/avocado/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-14T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://mbailleu.github.io/publications/tee-perf/</loc>
-    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+    <loc>https://mbailleu.github.io/authors/maurice-bailleu-dimitra-giantsidi-vasilis-gavrielatos-do-le-quoc-vijay-nagarajan-pramod-bhatotia/</loc>
+    <lastmod>2021-07-14T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/authors/maurice-bailleu-donald-dragoti-pramod-bhatotia-christof-fetzer/</loc>
+    <lastmod>2019-06-24T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/publications/tee_perf/</loc>
+    <lastmod>2019-06-24T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/authors/maurice-bailleu-j%C3%B6rg-thalheim-pramod-bhatotia-christof-fetzer-michio-honda-kapil-vaswani/</loc>
+    <lastmod>2019-02-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://mbailleu.github.io/publications/speicher/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-25T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://mbailleu.github.io/publications/interoperable_cap/</loc>
-    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <loc>https://mbailleu.github.io/publications/caps/</loc>
+    <lastmod>2016-05-13T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/authors/reto-achermann-maurice-bailleu-dejan-s.-milojicic-gabriel-parmer/</loc>
+    <lastmod>2016-05-13T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://mbailleu.github.io/cv/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/archives/</loc>
   </url><url>
     <loc>https://mbailleu.github.io/categories/</loc>
   </url><url>
+    <loc>https://mbailleu.github.io/cv/cv/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/publications/archives/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/search/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/series/</loc>
+  </url><url>
     <loc>https://mbailleu.github.io/tags/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/archives.zh/</loc>
+  </url><url>
+    <loc>https://mbailleu.github.io/search.zh/</loc>
   </url>
 </urlset>

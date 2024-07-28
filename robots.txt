@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /phd/
+Disallow:
+Sitemap: https://mbailleu.github.io/sitemap.xml

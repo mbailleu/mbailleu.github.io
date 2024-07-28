@@ -1,160 +1,316 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en" dir="auto">
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Tags - Maurice Bailleu </title>
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="referrer" content="no-referrer">
-    <meta name="description" content="" />
-    <meta property="og:site_name" content="Maurice Bailleu" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://mbailleu.github.io/tags/" />
-    <meta property="og:title" content="Tags" />
-    <meta property="og:image" content="https://mbailleu.github.io/" />
-    <meta property="og:description" content="" />
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Tags | Maurice Bailleu</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="Maurice Bailleu">
+<link rel="canonical" href="https://mbailleu.github.io/tags/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.7da7716a1f2d0725f74c6ae7f8d6adafc43aabe2b366b65bfbf433448e2a2001.css" integrity="sha256-fadxah8tByX3TGrn&#43;Natr8Q6q&#43;KzZrZb&#43;/QzRI4qIAE=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://mbailleu.github.io/favicon.ico">
+<link rel="apple-touch-icon" href="https://mbailleu.github.io/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" href="https://mbailleu.github.io/tags/index.xml">
+<link rel="alternate" hreflang="en" href="https://mbailleu.github.io/tags/">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Tags | Maurice Bailleu" />
+<meta name="twitter:description" content="" />
+<meta property="og:title" content="Tags | Maurice Bailleu" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://mbailleu.github.io/tags/" />
+    <meta property="og:image" content="https://mbailleu.github.io/cover.png"/>
 
-    <meta name="twitter:card" content="summary_large_image" />
-    
-    <meta name="twitter:title" content="Tags" />
-    <meta name="twitter:description" content="" />
-    <meta name="twitter:image" content="https://mbailleu.github.io/" />
+<style>
+  #icons {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2em;
+  }
+  #icons .item {
+    width: 80px;
+    height: 50px;
+    margin: 10px;
+  }
+  #icons .item .name {
+    font-size: 12px;
+    user-select: all;
+    text-align: center;
+  }
+  #icons .item .icon {
+    display: flex;
+    justify-content: center;
+  }
+  #icons .item svg {
+    width: 30px;
+    height: 30px;
+  }
+</style>
 
-    <link rel="canonical" href="https://mbailleu.github.io/tags/">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
 
-    <link rel="stylesheet" href="https://mbailleu.github.io/css/custom.css" />
-
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github-gist.min.css" integrity="sha512-od7JLoOTxM8w/HSKGzP9Kexc20K9p/M2zxSWsd7H1e4Ctf+8SQFtCWEZnW5u6ul5ehSECa5QmOk9ju2nQMmlVA==" crossorigin="anonymous" />
-    
-
-    
-
-    <link rel="shortcut icon"
-        href="https://mbailleu.github.io/images/favicon.png">
-
-    
-    <link href="https://mbailleu.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Maurice Bailleu" />
-    
-    <style type="text/css">
-       a:link {color: black;}       
-       a:visited {color: black;}    
-       a:hover {color: black;}      
-       a:active {color: black;}     
     </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary-bg: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list-page {
+                background: var(--theme);
+            }
+
+            .list-page:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list-page:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
 </head>
 
-<body>
+<body class="list-page type-tags kind-taxonomy layout-" id="top"><script data-no-instant>
+function switchTheme(theme) {
+  switch (theme) {
+    case 'light':
+      document.body.classList.remove('dark');
+      break;
+    case 'dark':
+      document.body.classList.add('dark');
+      break;
     
-<div class="mt-xl header">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-auto">
-                <a href="https://mbailleu.github.io/">
-                    <h1 class="name">Maurice Bailleu</h1>
+    default:
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+      }
+  }
+}
+
+function isDarkTheme() {
+  return document.body.className.includes("dark");
+}
+
+function getPrefTheme() {
+  return localStorage.getItem("pref-theme");
+}
+
+function setPrefTheme(theme) {
+  switchTheme(theme)
+  localStorage.setItem("pref-theme", theme);
+}
+
+const toggleThemeCallbacks = {}
+toggleThemeCallbacks['main'] = (isDark) => {
+  
+  if (isDark) {
+    setPrefTheme('light');
+  } else {
+    setPrefTheme('dark');
+  }
+}
+
+
+
+
+window.addEventListener('toggle-theme', function() {
+  
+  const isDark = isDarkTheme()
+  for (const key in toggleThemeCallbacks) {
+    toggleThemeCallbacks[key](isDark)
+  }
+});
+
+
+function toggleThemeListener() {
+  
+  window.dispatchEvent(new CustomEvent('toggle-theme'));
+}
+
+</script>
+<script>
+  
+  (function() {
+    const defaultTheme = 'auto';
+    const prefTheme = getPrefTheme();
+    const theme = prefTheme ? prefTheme : defaultTheme;
+
+    switchTheme(theme);
+  })();
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://mbailleu.github.io/" accesskey="h" title="Maurice Bailleu (Alt + H)">Maurice Bailleu</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://mbailleu.github.io/publications/" title="Publications"
+                >Publications
                 </a>
-            </div>
-        </div>
+            </li>
+            <li>
+                <a href="https://mbailleu.github.io/cv/cv/" title="CV"
+                >CV
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+<header class="page-header">
+    <h1>Tags</h1>
+</header>
 
-        <div class="row justify-content-center">
-            <ul class="nav nav-primary">
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="https://mbailleu.github.io/about">
-                        
-                        About
-                    </a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="https://mbailleu.github.io/publications">
-                        
-                        Publications
-                    </a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/mbailleu">
-                        
-                        GitHub
-                    </a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="https://mbailleu.github.io/cv.pdf">
-                        
-                        CV
-                    </a>
-                </li>
-                
-            </ul>
-        </div>
-    </div>
-</div>
-
-
-<div class="content">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-sm-12 col-lg-8">
-                <div class="mx-0 mx-md-4">
-                    <h2>Posts about Tags</h2>
-                    <hr>
-                    <ul>
-                        
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="content">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-sm-12 col-lg-8">
-                <div class="mx-0 mx-md-4">
-                    <div class="meta-date">
-                        M.Bailleu@ed.ac.uk
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
+<ul class="terms-tags">
+</ul>
+    </main>
     
+<footer class="footer">
+  <span>&copy; 2024 <a href="https://mbailleu.github.io/">Maurice Bailleu</a></span><span style="display: inline-block; margin-left: 1em;">
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
+  </span>
+  <span style="display: inline-block; margin-left: 1em;">
+    Powered by
+    <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+    <a href="https://github.com/reorx/hugo-PaperModX/" rel="noopener" target="_blank">PaperModX</a>
+  </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+    <path d="M12 6H0l6-6z" />
+  </svg>
+</a>
 
-    
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" defer></script>
-        
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" defer></script>
-        
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/stan.min.js" defer></script>
-        
-        <script>
-            window.addEventListener('load', function() {
-                hljs.initHighlighting();
-            }, true);
-        </script>
-    
+<script>
+  (function() {
+     
+    const disableThemeToggle = '' == '1';
+    if (disableThemeToggle) {
+      return;
+    }
 
+    let button = document.getElementById("theme-toggle")
     
+    button.removeEventListener('click', toggleThemeListener)
+    
+    button.addEventListener('click', toggleThemeListener)
+  })();
+</script>
 
-    
-    
-        
+<script>
+  (function () {
+    let menu = document.getElementById('menu')
+    if (menu) {
+      menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+      menu.onscroll = function () {
+        localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+      }
+    }
 
+    const disableSmoothScroll = '' == '1';
+    const enableInstantClick = '1' == '1';
     
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || disableSmoothScroll || enableInstantClick) {
+      return;
+    }
+    
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener("click", function (e) {
+        e.preventDefault();
+        var id = this.getAttribute("href").substr(1);
+        document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+          behavior: "smooth"
+        });
+        if (id === "top") {
+          history.replaceState(null, null, " ");
+        } else {
+          history.pushState(null, null, `#${id}`);
+        }
+      });
+    });
+  })();
+</script>
+<script>
+  var mybutton = document.getElementById("top-link");
+  window.onscroll = function () {
+    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+      mybutton.style.visibility = "visible";
+      mybutton.style.opacity = "1";
+    } else {
+      mybutton.style.visibility = "hidden";
+      mybutton.style.opacity = "0";
+    }
+  };
+</script>
+<script>
+  if (window.scrollListeners) {
+    
+    for (const listener of scrollListeners) {
+      window.removeEventListener('scroll', listener)
+    }
+  }
+  window.scrollListeners = []
+</script>
+
+
+
+<script src="/js/medium-zoom.min.js" data-no-instant
+></script>
+<script src="/js/instantclick.min.js" data-no-instant
+></script>
+<script data-no-instant>
+  
+  
+  
+  
+  
+  
+  InstantClick.init();
+</script>
 </body>
 
 </html>
